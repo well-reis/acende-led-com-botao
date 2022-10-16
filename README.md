@@ -16,3 +16,5 @@ COMPONENTES NECESSÁRIOS PARA A MONTAGEM DO PROJETO:
 - JUMPERS TIPO MACHO X MACHO PARA INTERLIGAR CONEXÕES. 
 - UMA PROTOBOARD PARA REALIZAÇÃO DAS CONEXÕES
 
+Confira abaixo como deverá ficar a ligação fisica do projeto: 
+https://drive.google.com/file/d/1spkMRHVw84RBFpezYN9K4yCygNz3HlQt/view?usp=sharing
