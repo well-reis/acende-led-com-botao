@@ -17,4 +17,5 @@ COMPONENTES NECESSÁRIOS PARA A MONTAGEM DO PROJETO:
 - UMA PROTOBOARD PARA REALIZAÇÃO DAS CONEXÕES
 
 Confira abaixo como deverá ficar a ligação fisica do projeto: 
-https://drive.google.com/file/d/1spkMRHVw84RBFpezYN9K4yCygNz3HlQt/view?usp=sharing
+
+![acende led com botao](https://user-images.githubusercontent.com/115898550/196048464-b458d3dd-d293-4cc0-b332-ce5f6e46ab77.png)
