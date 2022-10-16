@@ -1,11 +1,11 @@
 Olá! 
 
-Esse projeto de arduino mostra como acender um led, utilizando um botão. 
+Esse projeto de arduino mostra como acender um led utilizando um botão. 
 
-Trata-se de um dos primeiros projetos indicados para quem está iniciando no mundo do arduino, e também apresenta conceitos iniciais da utilização de estruturas
+Trata-se de um dos primeiros projetos indicados para quem está iniciando no mundo do arduino e também apresenta conceitos iniciais da utilização de estruturas
 condicionais de programação (IF/ESLSE). 
 
-============== *************================*************===============*************===============*************===============*************===============
+============== *************================*************===============
 
 COMPONENTES NECESSÁRIOS PARA A MONTAGEM DO PROJETO: 
 
